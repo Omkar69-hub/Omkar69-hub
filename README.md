@@ -1,5 +1,5 @@
 # 💫 About Me:
- * I’m currently working on DevOps projects involving CI/CD pipelines and Docker-based deployments.<br> *I ’m looking to collaborate on open-source DevOps, cloud, and automation projects.<br> * I’m looking for help with advanced Kubernetes and cloud architecture concepts.<br> * I’m currently learning AWS, Kubernetes, and Infrastructure as Code (Terraform).<br> * Ask me about Git, Linux, Docker, Jenkins, and CI/CD workflows.<br> * Fun fact: I enjoy automating repetitive tasks and turning manual processes into one-click solutions.
+I’m currently working on DevOps projects involving CI/CD pipelines and Docker-based deployments.<br>I’m looking to collaborate on open-source DevOps, cloud, and automation projects.<br>I’m looking for help with advanced Kubernetes and cloud architecture concepts.<br>I’m currently learning AWS, Kubernetes, and Infrastructure as Code (Terraform).<br>Ask me about Git, Linux, Docker, Jenkins, and CI/CD workflows.<br>Fun fact: I enjoy automating repetitive tasks and turning manual processes into one-click solutions.
 
 
 ## 🌐 Socials:
